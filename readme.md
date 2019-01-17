@@ -1,6 +1,6 @@
 # BUAASOFT-Algorithm-2015
 
-Here is some historical infomation of labs of course _Introduction to Algorithm(Autumn 2016)_, including the solution of each problem.
+Here is some historical infomation of labs of course _Introduction to Algorithm(2016 Fall)_, including the solution of each problem.
 
 Teaching Assistant: Guorui Ma, Zhelin Liu
 
