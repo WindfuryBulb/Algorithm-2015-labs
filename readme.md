@@ -4,6 +4,6 @@ Here is some historical infomation of labs of course _Introduction to Algorithm(
 
 Teaching Assistant: Guorui Ma, Zhelin Liu
 
-Related problems: https://buaacoding.cn/group/12/index
+Related problems: https://accoding.cn/group/12/index
 
 If you have any question while learning, you can connect to mgr9514@buaa.edu.cn at any time.
